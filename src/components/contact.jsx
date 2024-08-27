@@ -172,7 +172,7 @@ export const Contact = (props) => {
                 src={`/img/portfolio/logo (1).png`}
                 alt="Logo"
               />TOSTRING Company. Design by{" "}
-            <a href="http://www.templatewire.com" rel="nofollow">
+            <a href="https://ourwebsite-5e29c.web.app/" rel="nofollow">
               TOSTRING
             </a>
           </p>
