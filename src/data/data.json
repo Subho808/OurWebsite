@@ -1,0 +1,152 @@
+{
+  "Header": {
+    "title": "We are a TOSTRING",
+    "paragraph": "Delivering Tomorrow's Technology, Today"
+  },
+  "About": {
+    "paragraph": "At TOSTRING, we are passionate about turning ideas into innovative digital solutions. As a dynamic and forward-thinking company, we specialize in creating high-quality websites that are both visually appealing and technically robust. With expertise in Java Spring Boot for backend development and React.js for frontend, we bring together the best of both worlds to deliver seamless, full-stack applications. Our team of dedicated professionals is committed to understanding your business needs and transforming them into user-friendly, scalable web platforms that drive results. Our journey began with a simple mission: to help businesses thrive in the digital age by providing them with custom-tailored web solutions. Today, we continue to uphold that mission, partnering with clients to build websites that not only meet their current needs but also anticipate future growth.At TOSTRING, we believe in the power of collaboration and innovation. We work closely with our clients throughout the development process, ensuring that every project is a true reflection of their vision and goals. From the initial concept to the final launch, we are with you every step of the way, providing the expertise and support you need to succeed online.",
+    "Why": [
+      "Full-Stack Expertise",
+      "Customized Solutions",
+      "Quality Assurance",
+      "Client-Centric Approach"
+    ],
+    "Why2": [
+      "Ongoing Support",
+      "Innovative Design",
+      "Transparent Communication",
+      "Timely Delivery"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Janma-Mrityu Tathya",
+      "largeImage": "img/portfolio/01-large.png",
+      "smallImage": "img/portfolio/01-small.png",
+      "link": "https://www.janma-mrithyutathya.com/"
+    },
+    {
+      "title": "Vendor Management System",
+      "largeImage": "img/portfolio/02-large.png",
+      "smallImage": "img/portfolio/02-small.png",
+      "link": "https://ui.wbphed.gov.in/vms/"
+    },
+    {
+      "title": "Vendor Approval",
+      "largeImage": "img/portfolio/03-large.png",
+      "smallImage": "img/portfolio/03-small.png",
+      "link": "https://ui.wbphed.gov.in/vas/"
+    }
+   
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-desktop",
+      "name": "Web Application Development",
+      "text": " We build robust web applications tailored to your business needs, leveraging the latest technologies to deliver high-performance solutions."
+    },
+    {
+      "icon": "fa fa-plug",
+      "name": "API Development & Integration",
+      "text": "We create and integrate APIs that allow your applications to communicate effectively, enabling seamless data exchange and functionality."
+    },
+    {
+      "icon": "fa fa-edit",
+      "name": "Content Management Systems (CMS)",
+      "text": "We develop custom CMS solutions that give you full control over your website's content, making it easy to update and manage."
+    },
+    {
+      "icon": "fa fa-database",
+      "name": "Database Design & Management",
+      "text": " We design, implement, and manage databases that are optimized for performance, scalability, and security, ensuring your data is handled efficiently."
+    },
+    {
+      "icon": "fa fa-cloud",
+      "name": "Cloud Deployment & Management",
+      "text": "We deploy your applications on cloud platforms, offering scalable, secure, and cost-effective hosting solutions with ongoing management."
+    },
+    {
+      "icon": "fa fa-lightbulb-o",
+      "name": "Technical Consultation & Strategy",
+      "text": "We provide expert consultation and strategic planning to help you navigate the complexities of web development and digital transformation."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/portfolio/munna.jpg",
+      "name": "Munna Sharma",
+      "job": "Backend Developer"
+    },
+    {
+      "img": "img/portfolio/Ranit.jpg",
+      "name": "Ranit Mondal",
+      "job": "Backend Developer"
+    },
+    {
+      "img": "img/portfolio/Subho.JPG",
+      "name": "Subhojit Saha",
+      "job": "Frontend Developer"
+    }
+
+  ],
+  "Contact": {
+    "address": "Kolkata",
+    "phone": "8617440169, 7667229002, 8388874169",
+    "email": "info@company.com"
+   
+  },
+  "Features": [
+    {
+      "icon": "fa fa-laptop",
+      "title": "Custom Web Development",
+      "text": "We craft tailored web solutions that align with your brand, ensuring responsive and scalable custom websites to meet your unique business needs."
+    },
+    {
+      "icon": "fa fa-cubes",
+      "title": "Full-Stack Expertise",
+      "text": "Our team is proficient in both frontend and backend technologies, using React.js for dynamic user interfaces and Java Spring Boot for robust server-side applications."
+    },
+    {
+      "icon": "fa fa-line-chart",
+      "title": "SEO Optimization",
+      "text": "We ensure your website is optimized for search engines, helping your business reach a wider audience and rank higher in search results."
+    },
+    {
+      "icon": "fa fa-wrench",
+      "title": "Continuous Support & Maintenance",
+      "text": "Our commitment doesn't end with the launch. We offer ongoing support and maintenance to keep your website running smoothly and securely."
+    }
+  ]
+}
