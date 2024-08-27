@@ -9,39 +9,33 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repo
-        uses: actions/checkout@v3
-      
+        uses: actions/checkout@v2.3.2
       - name: Install Dependencies
-        run: npm install
-      
+        run: npm install      
       - name: Build
         env:
-          CI: false
+          CI: false        
         run: npm run build
-
       - name: Archive Production Artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v2
         with:
           name: build
           path: build
-
   deploy:
     name: Deploy
     needs: build
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repo
-        uses: actions/checkout@v3
-
+        uses: actions/checkout@v2.3.2
       - name: Download Artifact
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v2
         with:
           name: build
           path: build
-
       - name: Deploy to Firebase
-        uses: w9jds/firebase-action@v3
+        uses: w9jds/firebase-action@v2
         with:
           args: deploy --only hosting
         env:
-          GOOGLE_APPLICATION_CREDENTIALS: ${{ secrets.GOOGLE_APPLICATION_CREDENTIALS }}
+          FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
